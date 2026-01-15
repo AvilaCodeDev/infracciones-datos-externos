@@ -1,0 +1,1906 @@
+{
+    "automoviles": [
+        {
+            "vin": "3ABC73XYZ000001",
+            "placa": "I24-CLN",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "anio": 2015,
+            "color": "Rojo",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "5ABC41XYZ000002",
+            "placa": "X32-PTE",
+            "marca": "Kia",
+            "modelo": "Rio",
+            "anio": 2016,
+            "color": "Rojo",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "8ABC33XYZ000003",
+            "placa": "G35-VTF",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2017,
+            "color": "Vino",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "9ABC43XYZ000004",
+            "placa": "E71-BSS",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2016,
+            "color": "Rojo",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC60XYZ000005",
+            "placa": "H14-WOJ",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2023,
+            "color": "Rojo",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "2ABC35XYZ000006",
+            "placa": "G58-EPS",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2019,
+            "color": "Gris",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "1ABC37XYZ000007",
+            "placa": "U60-BHZ",
+            "marca": "Chevrolet",
+            "modelo": "Aveo",
+            "anio": 2019,
+            "color": "Blanco",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC22XYZ000008",
+            "placa": "Z12-RXT",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "5ABC21XYZ000009",
+            "placa": "C54-UJT",
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "anio": 2021,
+            "color": "Gris",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC73XYZ000010",
+            "placa": "T32-LJF",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2019,
+            "color": "Gris",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "9ABC46XYZ000011",
+            "placa": "L38-KNT",
+            "marca": "Kia",
+            "modelo": "Sportage",
+            "anio": 2016,
+            "color": "Blanco",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC60XYZ000012",
+            "placa": "Z48-EJH",
+            "marca": "Kia",
+            "modelo": "Rio",
+            "anio": 2020,
+            "color": "Azul",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "6ABC60XYZ000013",
+            "placa": "U57-ATI",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2017,
+            "color": "Vino",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "9ABC38XYZ000014",
+            "placa": "K92-DIK",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "3ABC22XYZ000015",
+            "placa": "L30-XUP",
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "anio": 2018,
+            "color": "Blanco",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "2ABC38XYZ000016",
+            "placa": "O76-WBF",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2019,
+            "color": "Vino",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "6ABC91XYZ000017",
+            "placa": "M85-LKD",
+            "marca": "Honda",
+            "modelo": "City",
+            "anio": 2017,
+            "color": "Azul",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "3ABC26XYZ000018",
+            "placa": "P96-XRD",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2021,
+            "color": "Negro",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC90XYZ000019",
+            "placa": "O25-HVF",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2022,
+            "color": "Vino",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC93XYZ000020",
+            "placa": "I12-ZAL",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2023,
+            "color": "Vino",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "2ABC99XYZ000021",
+            "placa": "U52-JWL",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2019,
+            "color": "Blanco",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "6ABC27XYZ000022",
+            "placa": "U10-XST",
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "anio": 2019,
+            "color": "Blanco",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "6ABC65XYZ000023",
+            "placa": "C79-DUA",
+            "marca": "Toyota",
+            "modelo": "RAV4",
+            "anio": 2023,
+            "color": "Azul",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "6ABC49XYZ000024",
+            "placa": "E12-FDH",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2020,
+            "color": "Negro",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "6ABC10XYZ000025",
+            "placa": "V18-VFK",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2021,
+            "color": "Plata",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "1ABC89XYZ000026",
+            "placa": "Y12-PML",
+            "marca": "Chevrolet",
+            "modelo": "Equinox",
+            "anio": 2018,
+            "color": "Plata",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "1ABC97XYZ000027",
+            "placa": "B17-YHZ",
+            "marca": "Nissan",
+            "modelo": "NP300",
+            "anio": 2016,
+            "color": "Gris",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "5ABC87XYZ000028",
+            "placa": "K39-PRU",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "anio": 2023,
+            "color": "Vino",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC18XYZ000029",
+            "placa": "W44-PGD",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2015,
+            "color": "Rojo",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "1ABC38XYZ000030",
+            "placa": "S58-FXL",
+            "marca": "Kia",
+            "modelo": "Forte",
+            "anio": 2019,
+            "color": "Gris",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "6ABC31XYZ000031",
+            "placa": "R48-BRC",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2024,
+            "color": "Rojo",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC26XYZ000032",
+            "placa": "U31-FMY",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2023,
+            "color": "Gris",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "6ABC89XYZ000033",
+            "placa": "J76-IJS",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2022,
+            "color": "Plata",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC91XYZ000034",
+            "placa": "V28-NVY",
+            "marca": "Kia",
+            "modelo": "Forte",
+            "anio": 2019,
+            "color": "Rojo",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC88XYZ000035",
+            "placa": "M29-OYT",
+            "marca": "Chevrolet",
+            "modelo": "Equinox",
+            "anio": 2019,
+            "color": "Azul",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "8ABC28XYZ000036",
+            "placa": "D68-IDR",
+            "marca": "Volkswagen",
+            "modelo": "Jetta",
+            "anio": 2024,
+            "color": "Gris",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "6ABC11XYZ000037",
+            "placa": "N64-UID",
+            "marca": "Toyota",
+            "modelo": "Hilux",
+            "anio": 2016,
+            "color": "Plata",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC98XYZ000038",
+            "placa": "Y97-VNI",
+            "marca": "Volkswagen",
+            "modelo": "Vento",
+            "anio": 2017,
+            "color": "Rojo",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC80XYZ000039",
+            "placa": "Z36-ZII",
+            "marca": "Kia",
+            "modelo": "Rio",
+            "anio": 2024,
+            "color": "Rojo",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC13XYZ000040",
+            "placa": "O95-VVG",
+            "marca": "Kia",
+            "modelo": "Rio",
+            "anio": 2016,
+            "color": "Blanco",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "2ABC59XYZ000041",
+            "placa": "X30-VZZ",
+            "marca": "Volkswagen",
+            "modelo": "Vento",
+            "anio": 2021,
+            "color": "Plata",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC38XYZ000042",
+            "placa": "T47-UXP",
+            "marca": "Chevrolet",
+            "modelo": "Aveo",
+            "anio": 2016,
+            "color": "Vino",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC76XYZ000043",
+            "placa": "M74-NTE",
+            "marca": "Volkswagen",
+            "modelo": "Tiguan",
+            "anio": 2020,
+            "color": "Rojo",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC31XYZ000044",
+            "placa": "F33-UEZ",
+            "marca": "Nissan",
+            "modelo": "Sentra",
+            "anio": 2017,
+            "color": "Negro",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC27XYZ000045",
+            "placa": "T60-FTS",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2021,
+            "color": "Azul",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "4ABC89XYZ000046",
+            "placa": "Y77-WJT",
+            "marca": "Nissan",
+            "modelo": "NP300",
+            "anio": 2020,
+            "color": "Azul",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "1ABC10XYZ000047",
+            "placa": "I90-MTD",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2023,
+            "color": "Gris",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "2ABC12XYZ000048",
+            "placa": "L90-OVO",
+            "marca": "Kia",
+            "modelo": "Forte",
+            "anio": 2022,
+            "color": "Azul",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC31XYZ000049",
+            "placa": "X42-QEJ",
+            "marca": "Volkswagen",
+            "modelo": "Jetta",
+            "anio": 2017,
+            "color": "Negro",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "8ABC55XYZ000050",
+            "placa": "G20-XRY",
+            "marca": "Toyota",
+            "modelo": "RAV4",
+            "anio": 2018,
+            "color": "Vino",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "6ABC65XYZ000051",
+            "placa": "R68-YSJ",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2019,
+            "color": "Negro",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "9ABC84XYZ000052",
+            "placa": "K45-RVM",
+            "marca": "Volkswagen",
+            "modelo": "Taos",
+            "anio": 2024,
+            "color": "Gris",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "6ABC55XYZ000053",
+            "placa": "K48-ENO",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2021,
+            "color": "Vino",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "2ABC17XYZ000054",
+            "placa": "X87-DDI",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2024,
+            "color": "Negro",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "5ABC92XYZ000055",
+            "placa": "M51-LBW",
+            "marca": "Volkswagen",
+            "modelo": "Tiguan",
+            "anio": 2017,
+            "color": "Azul",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC97XYZ000056",
+            "placa": "V80-DOY",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "5ABC20XYZ000057",
+            "placa": "H56-UPL",
+            "marca": "Volkswagen",
+            "modelo": "Vento",
+            "anio": 2023,
+            "color": "Azul",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "2ABC11XYZ000058",
+            "placa": "K73-TJY",
+            "marca": "Chevrolet",
+            "modelo": "Equinox",
+            "anio": 2021,
+            "color": "Blanco",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "8ABC16XYZ000059",
+            "placa": "H51-YJR",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "anio": 2019,
+            "color": "Azul",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC44XYZ000060",
+            "placa": "C16-VDX",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2017,
+            "color": "Azul",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC40XYZ000061",
+            "placa": "W74-ECL",
+            "marca": "Toyota",
+            "modelo": "Hilux",
+            "anio": 2019,
+            "color": "Negro",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC14XYZ000062",
+            "placa": "T41-NCY",
+            "marca": "Volkswagen",
+            "modelo": "Jetta",
+            "anio": 2018,
+            "color": "Negro",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC21XYZ000063",
+            "placa": "L31-QSN",
+            "marca": "Volkswagen",
+            "modelo": "Jetta",
+            "anio": 2023,
+            "color": "Blanco",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC53XYZ000064",
+            "placa": "D35-FAQ",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "anio": 2015,
+            "color": "Azul",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC55XYZ000065",
+            "placa": "X81-DXA",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2020,
+            "color": "Rojo",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "8ABC85XYZ000066",
+            "placa": "A70-ECN",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "anio": 2022,
+            "color": "Plata",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC47XYZ000067",
+            "placa": "Z81-DPF",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "anio": 2015,
+            "color": "Negro",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "9ABC14XYZ000068",
+            "placa": "I44-ZLK",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2022,
+            "color": "Rojo",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "5ABC45XYZ000069",
+            "placa": "N57-DPV",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2015,
+            "color": "Blanco",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC10XYZ000070",
+            "placa": "S18-HVJ",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2022,
+            "color": "Gris",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC42XYZ000071",
+            "placa": "A14-KGE",
+            "marca": "Nissan",
+            "modelo": "Sentra",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "1ABC13XYZ000072",
+            "placa": "O32-VBM",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "anio": 2015,
+            "color": "Azul",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "5ABC37XYZ000073",
+            "placa": "F97-JNH",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2015,
+            "color": "Negro",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "9ABC10XYZ000074",
+            "placa": "G35-CBK",
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "anio": 2022,
+            "color": "Plata",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "1ABC22XYZ000075",
+            "placa": "G42-OGI",
+            "marca": "Kia",
+            "modelo": "Seltos",
+            "anio": 2021,
+            "color": "Gris",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC36XYZ000076",
+            "placa": "X94-EWR",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2018,
+            "color": "Rojo",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "9ABC43XYZ000077",
+            "placa": "R24-HYT",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "anio": 2021,
+            "color": "Vino",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "3ABC28XYZ000078",
+            "placa": "S95-WGK",
+            "marca": "Kia",
+            "modelo": "Rio",
+            "anio": 2017,
+            "color": "Negro",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "2ABC25XYZ000079",
+            "placa": "D14-IIF",
+            "marca": "Volkswagen",
+            "modelo": "Jetta",
+            "anio": 2019,
+            "color": "Rojo",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "2ABC92XYZ000080",
+            "placa": "G12-OWN",
+            "marca": "Volkswagen",
+            "modelo": "Taos",
+            "anio": 2023,
+            "color": "Rojo",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "1ABC92XYZ000081",
+            "placa": "A34-KVC",
+            "marca": "Toyota",
+            "modelo": "Hilux",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "5ABC54XYZ000082",
+            "placa": "L89-DNB",
+            "marca": "Nissan",
+            "modelo": "March",
+            "anio": 2019,
+            "color": "Plata",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "2ABC53XYZ000083",
+            "placa": "V81-KJS",
+            "marca": "Volkswagen",
+            "modelo": "Vento",
+            "anio": 2023,
+            "color": "Negro",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "4ABC28XYZ000084",
+            "placa": "K35-PDT",
+            "marca": "Chevrolet",
+            "modelo": "Equinox",
+            "anio": 2019,
+            "color": "Negro",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "6ABC94XYZ000085",
+            "placa": "K83-FRI",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2020,
+            "color": "Negro",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "7ABC98XYZ000086",
+            "placa": "H29-YKZ",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2020,
+            "color": "Gris",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "9ABC53XYZ000087",
+            "placa": "O78-LEO",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "4ABC22XYZ000088",
+            "placa": "L94-CFY",
+            "marca": "Honda",
+            "modelo": "City",
+            "anio": 2019,
+            "color": "Vino",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "5ABC38XYZ000089",
+            "placa": "G13-ERM",
+            "marca": "Toyota",
+            "modelo": "Camry",
+            "anio": 2023,
+            "color": "Azul",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "5ABC43XYZ000090",
+            "placa": "O24-GWI",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2017,
+            "color": "Azul",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC68XYZ000091",
+            "placa": "B99-IML",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2015,
+            "color": "Gris",
+            "estado_registro": "Puebla",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "4ABC93XYZ000092",
+            "placa": "C32-SBU",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2024,
+            "color": "Blanco",
+            "estado_registro": "CDMX",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "2ABC71XYZ000093",
+            "placa": "B97-BVP",
+            "marca": "Volkswagen",
+            "modelo": "Taos",
+            "anio": 2016,
+            "color": "Azul",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC15XYZ000094",
+            "placa": "Q29-EWI",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2017,
+            "color": "Blanco",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "6ABC24XYZ000095",
+            "placa": "V11-USD",
+            "marca": "Volkswagen",
+            "modelo": "Vento",
+            "anio": 2015,
+            "color": "Vino",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "9ABC69XYZ000096",
+            "placa": "C79-QXI",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "anio": 2020,
+            "color": "Plata",
+            "estado_registro": "Querétaro",
+            "estatus_legal": "Recuperado"
+        },
+        {
+            "vin": "2ABC69XYZ000097",
+            "placa": "G72-HVC",
+            "marca": "Honda",
+            "modelo": "City",
+            "anio": 2021,
+            "color": "Gris",
+            "estado_registro": "Jalisco",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "7ABC71XYZ000098",
+            "placa": "D10-WCY",
+            "marca": "Honda",
+            "modelo": "HR-V",
+            "anio": 2021,
+            "color": "Azul",
+            "estado_registro": "Yucatán",
+            "estatus_legal": "Reporte de robo vigente"
+        },
+        {
+            "vin": "9ABC94XYZ000099",
+            "placa": "K45-HMT",
+            "marca": "Nissan",
+            "modelo": "NP300",
+            "anio": 2016,
+            "color": "Vino",
+            "estado_registro": "Edomex",
+            "estatus_legal": "Sin reporte de robo"
+        },
+        {
+            "vin": "3ABC78XYZ000100",
+            "placa": "T74-UKE",
+            "marca": "Chevrolet",
+            "modelo": "Silverado",
+            "anio": 2019,
+            "color": "Rojo",
+            "estado_registro": "Nuevo León",
+            "estatus_legal": "Sin reporte de robo"
+        }
+    ],
+    "parquimetros": [
+        {
+            "id_txn": "TXN-1001",
+            "parquimetro": "PK-NOR-10",
+            "placa": "X81-DXA",
+            "inicio": "2026-01-14T16:00:41",
+            "fin": "2026-01-14T18:00:41",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1002",
+            "parquimetro": "PK-SUR-07",
+            "placa": "T41-NCY",
+            "inicio": "2026-01-14T11:09:10",
+            "fin": "2026-01-14T13:39:10",
+            "monto": 6.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1003",
+            "parquimetro": "PK-SUR-02",
+            "placa": "H51-YJR",
+            "inicio": "2026-01-14T15:09:54",
+            "fin": "2026-01-14T17:09:54",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1004",
+            "parquimetro": "PK-CEN-13",
+            "placa": "A70-ECN",
+            "inicio": "2026-01-14T13:53:03",
+            "fin": "2026-01-14T16:23:03",
+            "monto": 6.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1005",
+            "parquimetro": "PK-NOR-04",
+            "placa": "O24-GWI",
+            "inicio": "2026-01-14T14:16:39",
+            "fin": "2026-01-14T15:16:39",
+            "monto": 2.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1006",
+            "parquimetro": "PK-NOR-10",
+            "placa": "C54-UJT",
+            "inicio": "2026-01-14T08:18:31",
+            "fin": "2026-01-14T10:48:31",
+            "monto": 6.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1007",
+            "parquimetro": "PK-CEN-15",
+            "placa": "I90-MTD",
+            "inicio": "2026-01-14T09:40:22",
+            "fin": "2026-01-14T10:10:22",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1008",
+            "parquimetro": "PK-SUR-09",
+            "placa": "O78-LEO",
+            "inicio": "2026-01-14T16:15:27",
+            "fin": "2026-01-14T17:15:27",
+            "monto": 2.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1009",
+            "parquimetro": "PK-NOR-14",
+            "placa": "X30-VZZ",
+            "inicio": "2026-01-14T13:50:37",
+            "fin": "2026-01-14T16:20:37",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1010",
+            "parquimetro": "PK-NOR-07",
+            "placa": "A70-ECN",
+            "inicio": "2026-01-14T09:53:35",
+            "fin": "2026-01-14T10:53:35",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1011",
+            "parquimetro": "PK-CEN-06",
+            "placa": "C32-SBU",
+            "inicio": "2026-01-14T13:56:01",
+            "fin": "2026-01-14T15:26:01",
+            "monto": 3.75,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1012",
+            "parquimetro": "PK-SUR-14",
+            "placa": "K92-DIK",
+            "inicio": "2026-01-14T10:05:48",
+            "fin": "2026-01-14T12:05:48",
+            "monto": 5.0,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1013",
+            "parquimetro": "PK-CEN-04",
+            "placa": "A14-KGE",
+            "inicio": "2026-01-14T08:43:29",
+            "fin": "2026-01-14T11:13:29",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1014",
+            "parquimetro": "PK-NOR-02",
+            "placa": "L30-XUP",
+            "inicio": "2026-01-14T10:44:36",
+            "fin": "2026-01-14T11:44:36",
+            "monto": 2.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1015",
+            "parquimetro": "PK-NOR-02",
+            "placa": "D14-IIF",
+            "inicio": "2026-01-14T14:13:37",
+            "fin": "2026-01-14T15:43:37",
+            "monto": 3.75,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1016",
+            "parquimetro": "PK-CEN-07",
+            "placa": "I12-ZAL",
+            "inicio": "2026-01-14T13:05:35",
+            "fin": "2026-01-14T16:05:35",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1017",
+            "parquimetro": "PK-NOR-09",
+            "placa": "X42-QEJ",
+            "inicio": "2026-01-14T09:37:17",
+            "fin": "2026-01-14T10:37:17",
+            "monto": 2.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1018",
+            "parquimetro": "PK-SUR-04",
+            "placa": "I24-CLN",
+            "inicio": "2026-01-14T09:40:32",
+            "fin": "2026-01-14T12:40:32",
+            "monto": 7.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1019",
+            "parquimetro": "PK-SUR-11",
+            "placa": "D68-IDR",
+            "inicio": "2026-01-14T14:29:31",
+            "fin": "2026-01-14T14:59:31",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1020",
+            "parquimetro": "PK-SUR-09",
+            "placa": "Z81-DPF",
+            "inicio": "2026-01-14T08:52:23",
+            "fin": "2026-01-14T09:52:23",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1021",
+            "parquimetro": "PK-SUR-10",
+            "placa": "G58-EPS",
+            "inicio": "2026-01-14T08:23:05",
+            "fin": "2026-01-14T11:23:05",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1022",
+            "parquimetro": "PK-CEN-10",
+            "placa": "D35-FAQ",
+            "inicio": "2026-01-14T10:08:30",
+            "fin": "2026-01-14T13:08:30",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1023",
+            "parquimetro": "PK-SUR-06",
+            "placa": "J76-IJS",
+            "inicio": "2026-01-14T15:35:38",
+            "fin": "2026-01-14T16:35:38",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1024",
+            "parquimetro": "PK-NOR-12",
+            "placa": "W44-PGD",
+            "inicio": "2026-01-14T12:27:18",
+            "fin": "2026-01-14T12:57:18",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1025",
+            "parquimetro": "PK-SUR-03",
+            "placa": "H29-YKZ",
+            "inicio": "2026-01-14T12:22:24",
+            "fin": "2026-01-14T12:52:24",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1026",
+            "parquimetro": "PK-SUR-08",
+            "placa": "K73-TJY",
+            "inicio": "2026-01-14T14:51:45",
+            "fin": "2026-01-14T17:21:45",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1027",
+            "parquimetro": "PK-SUR-10",
+            "placa": "L30-XUP",
+            "inicio": "2026-01-14T13:25:22",
+            "fin": "2026-01-14T14:55:22",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1028",
+            "parquimetro": "PK-SUR-12",
+            "placa": "A70-ECN",
+            "inicio": "2026-01-14T12:59:25",
+            "fin": "2026-01-14T13:29:25",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1029",
+            "parquimetro": "PK-CEN-13",
+            "placa": "K39-PRU",
+            "inicio": "2026-01-14T10:33:47",
+            "fin": "2026-01-14T11:33:47",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1030",
+            "parquimetro": "PK-NOR-11",
+            "placa": "C79-QXI",
+            "inicio": "2026-01-14T11:51:29",
+            "fin": "2026-01-14T14:21:29",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1031",
+            "parquimetro": "PK-CEN-02",
+            "placa": "T41-NCY",
+            "inicio": "2026-01-14T12:04:39",
+            "fin": "2026-01-14T14:34:39",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1032",
+            "parquimetro": "PK-CEN-15",
+            "placa": "L31-QSN",
+            "inicio": "2026-01-14T13:00:07",
+            "fin": "2026-01-14T16:00:07",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1033",
+            "parquimetro": "PK-CEN-01",
+            "placa": "O25-HVF",
+            "inicio": "2026-01-14T11:08:29",
+            "fin": "2026-01-14T11:38:29",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1034",
+            "parquimetro": "PK-CEN-14",
+            "placa": "C79-DUA",
+            "inicio": "2026-01-14T12:09:53",
+            "fin": "2026-01-14T14:39:53",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1035",
+            "parquimetro": "PK-CEN-07",
+            "placa": "M85-LKD",
+            "inicio": "2026-01-14T13:01:49",
+            "fin": "2026-01-14T14:01:49",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1036",
+            "parquimetro": "PK-SUR-14",
+            "placa": "W44-PGD",
+            "inicio": "2026-01-14T08:06:14",
+            "fin": "2026-01-14T11:06:14",
+            "monto": 7.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1037",
+            "parquimetro": "PK-NOR-02",
+            "placa": "L89-DNB",
+            "inicio": "2026-01-14T15:20:38",
+            "fin": "2026-01-14T16:50:38",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1038",
+            "parquimetro": "PK-SUR-14",
+            "placa": "N57-DPV",
+            "inicio": "2026-01-14T08:48:00",
+            "fin": "2026-01-14T10:48:00",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1039",
+            "parquimetro": "PK-SUR-01",
+            "placa": "B17-YHZ",
+            "inicio": "2026-01-14T12:58:50",
+            "fin": "2026-01-14T14:28:50",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1040",
+            "parquimetro": "PK-CEN-04",
+            "placa": "N57-DPV",
+            "inicio": "2026-01-14T15:20:09",
+            "fin": "2026-01-14T15:50:09",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1041",
+            "parquimetro": "PK-SUR-06",
+            "placa": "R48-BRC",
+            "inicio": "2026-01-14T12:53:46",
+            "fin": "2026-01-14T15:53:46",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1042",
+            "parquimetro": "PK-SUR-07",
+            "placa": "X30-VZZ",
+            "inicio": "2026-01-14T14:04:20",
+            "fin": "2026-01-14T17:04:20",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1043",
+            "parquimetro": "PK-NOR-07",
+            "placa": "B97-BVP",
+            "inicio": "2026-01-14T13:18:41",
+            "fin": "2026-01-14T14:18:41",
+            "monto": 2.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1044",
+            "parquimetro": "PK-CEN-08",
+            "placa": "H56-UPL",
+            "inicio": "2026-01-14T09:40:17",
+            "fin": "2026-01-14T10:10:17",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1045",
+            "parquimetro": "PK-NOR-05",
+            "placa": "V28-NVY",
+            "inicio": "2026-01-14T15:16:50",
+            "fin": "2026-01-14T18:16:50",
+            "monto": 7.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1046",
+            "parquimetro": "PK-NOR-03",
+            "placa": "H29-YKZ",
+            "inicio": "2026-01-14T11:28:56",
+            "fin": "2026-01-14T14:28:56",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1047",
+            "parquimetro": "PK-CEN-05",
+            "placa": "S58-FXL",
+            "inicio": "2026-01-14T16:01:24",
+            "fin": "2026-01-14T19:01:24",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1048",
+            "parquimetro": "PK-CEN-09",
+            "placa": "U60-BHZ",
+            "inicio": "2026-01-14T13:34:07",
+            "fin": "2026-01-14T14:04:07",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1049",
+            "parquimetro": "PK-CEN-08",
+            "placa": "K83-FRI",
+            "inicio": "2026-01-14T08:26:07",
+            "fin": "2026-01-14T09:56:07",
+            "monto": 3.75,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1050",
+            "parquimetro": "PK-CEN-02",
+            "placa": "W44-PGD",
+            "inicio": "2026-01-14T11:21:46",
+            "fin": "2026-01-14T11:51:46",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1051",
+            "parquimetro": "PK-SUR-02",
+            "placa": "P96-XRD",
+            "inicio": "2026-01-14T15:59:51",
+            "fin": "2026-01-14T17:29:51",
+            "monto": 3.75,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1052",
+            "parquimetro": "PK-CEN-14",
+            "placa": "G35-VTF",
+            "inicio": "2026-01-14T12:12:30",
+            "fin": "2026-01-14T13:42:30",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1053",
+            "parquimetro": "PK-NOR-09",
+            "placa": "G42-OGI",
+            "inicio": "2026-01-14T11:33:29",
+            "fin": "2026-01-14T14:03:29",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1054",
+            "parquimetro": "PK-SUR-06",
+            "placa": "X87-DDI",
+            "inicio": "2026-01-14T13:41:31",
+            "fin": "2026-01-14T15:11:31",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1055",
+            "parquimetro": "PK-SUR-08",
+            "placa": "T41-NCY",
+            "inicio": "2026-01-14T08:17:46",
+            "fin": "2026-01-14T10:17:46",
+            "monto": 5.0,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1056",
+            "parquimetro": "PK-SUR-02",
+            "placa": "H29-YKZ",
+            "inicio": "2026-01-14T10:04:11",
+            "fin": "2026-01-14T10:34:11",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1057",
+            "parquimetro": "PK-CEN-01",
+            "placa": "G58-EPS",
+            "inicio": "2026-01-14T16:11:00",
+            "fin": "2026-01-14T18:11:00",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1058",
+            "parquimetro": "PK-NOR-03",
+            "placa": "K45-RVM",
+            "inicio": "2026-01-14T12:06:57",
+            "fin": "2026-01-14T12:36:57",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1059",
+            "parquimetro": "PK-NOR-08",
+            "placa": "G35-VTF",
+            "inicio": "2026-01-14T09:23:52",
+            "fin": "2026-01-14T12:23:52",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1060",
+            "parquimetro": "PK-CEN-14",
+            "placa": "U10-XST",
+            "inicio": "2026-01-14T12:30:39",
+            "fin": "2026-01-14T15:00:39",
+            "monto": 6.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1061",
+            "parquimetro": "PK-NOR-02",
+            "placa": "B99-IML",
+            "inicio": "2026-01-14T12:00:02",
+            "fin": "2026-01-14T12:30:02",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1062",
+            "parquimetro": "PK-CEN-09",
+            "placa": "X42-QEJ",
+            "inicio": "2026-01-14T14:04:11",
+            "fin": "2026-01-14T16:34:11",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1063",
+            "parquimetro": "PK-NOR-10",
+            "placa": "X87-DDI",
+            "inicio": "2026-01-14T09:44:43",
+            "fin": "2026-01-14T10:14:43",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1064",
+            "parquimetro": "PK-CEN-01",
+            "placa": "I24-CLN",
+            "inicio": "2026-01-14T09:13:31",
+            "fin": "2026-01-14T11:43:31",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1065",
+            "parquimetro": "PK-NOR-03",
+            "placa": "K45-HMT",
+            "inicio": "2026-01-14T12:53:01",
+            "fin": "2026-01-14T15:23:01",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1066",
+            "parquimetro": "PK-CEN-10",
+            "placa": "K73-TJY",
+            "inicio": "2026-01-14T11:34:58",
+            "fin": "2026-01-14T12:34:58",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1067",
+            "parquimetro": "PK-CEN-07",
+            "placa": "G20-XRY",
+            "inicio": "2026-01-14T14:57:46",
+            "fin": "2026-01-14T15:57:46",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1068",
+            "parquimetro": "PK-CEN-15",
+            "placa": "S95-WGK",
+            "inicio": "2026-01-14T14:22:51",
+            "fin": "2026-01-14T16:22:51",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1069",
+            "parquimetro": "PK-NOR-15",
+            "placa": "V81-KJS",
+            "inicio": "2026-01-14T13:41:44",
+            "fin": "2026-01-14T14:41:44",
+            "monto": 2.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1070",
+            "parquimetro": "PK-NOR-08",
+            "placa": "H14-WOJ",
+            "inicio": "2026-01-14T11:45:00",
+            "fin": "2026-01-14T14:45:00",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1071",
+            "parquimetro": "PK-NOR-05",
+            "placa": "J76-IJS",
+            "inicio": "2026-01-14T11:54:48",
+            "fin": "2026-01-14T12:24:48",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1072",
+            "parquimetro": "PK-CEN-06",
+            "placa": "U31-FMY",
+            "inicio": "2026-01-14T15:57:10",
+            "fin": "2026-01-14T16:27:10",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1073",
+            "parquimetro": "PK-SUR-12",
+            "placa": "F33-UEZ",
+            "inicio": "2026-01-14T10:12:33",
+            "fin": "2026-01-14T12:12:33",
+            "monto": 5.0,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1074",
+            "parquimetro": "PK-NOR-15",
+            "placa": "F33-UEZ",
+            "inicio": "2026-01-14T12:49:48",
+            "fin": "2026-01-14T13:19:48",
+            "monto": 1.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1075",
+            "parquimetro": "PK-NOR-13",
+            "placa": "L89-DNB",
+            "inicio": "2026-01-14T13:13:21",
+            "fin": "2026-01-14T14:13:21",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1076",
+            "parquimetro": "PK-CEN-12",
+            "placa": "R68-YSJ",
+            "inicio": "2026-01-14T15:50:35",
+            "fin": "2026-01-14T18:50:35",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1077",
+            "parquimetro": "PK-NOR-01",
+            "placa": "A14-KGE",
+            "inicio": "2026-01-14T08:34:46",
+            "fin": "2026-01-14T09:04:46",
+            "monto": 1.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1078",
+            "parquimetro": "PK-NOR-04",
+            "placa": "U10-XST",
+            "inicio": "2026-01-14T12:12:41",
+            "fin": "2026-01-14T15:12:41",
+            "monto": 7.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1079",
+            "parquimetro": "PK-SUR-06",
+            "placa": "M85-LKD",
+            "inicio": "2026-01-14T10:42:42",
+            "fin": "2026-01-14T12:42:42",
+            "monto": 5.0,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1080",
+            "parquimetro": "PK-SUR-09",
+            "placa": "F33-UEZ",
+            "inicio": "2026-01-14T14:33:09",
+            "fin": "2026-01-14T15:33:09",
+            "monto": 2.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1081",
+            "parquimetro": "PK-NOR-14",
+            "placa": "I12-ZAL",
+            "inicio": "2026-01-14T11:53:50",
+            "fin": "2026-01-14T13:23:50",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1082",
+            "parquimetro": "PK-SUR-10",
+            "placa": "K73-TJY",
+            "inicio": "2026-01-14T15:50:29",
+            "fin": "2026-01-14T18:20:29",
+            "monto": 6.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1083",
+            "parquimetro": "PK-NOR-11",
+            "placa": "R24-HYT",
+            "inicio": "2026-01-14T09:00:22",
+            "fin": "2026-01-14T11:30:22",
+            "monto": 6.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1084",
+            "parquimetro": "PK-NOR-09",
+            "placa": "L90-OVO",
+            "inicio": "2026-01-14T13:00:13",
+            "fin": "2026-01-14T14:30:13",
+            "monto": 3.75,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1085",
+            "parquimetro": "PK-CEN-07",
+            "placa": "K45-HMT",
+            "inicio": "2026-01-14T13:25:16",
+            "fin": "2026-01-14T14:25:16",
+            "monto": 2.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1086",
+            "parquimetro": "PK-NOR-10",
+            "placa": "G72-HVC",
+            "inicio": "2026-01-14T11:40:56",
+            "fin": "2026-01-14T12:40:56",
+            "monto": 2.5,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1087",
+            "parquimetro": "PK-CEN-08",
+            "placa": "W74-ECL",
+            "inicio": "2026-01-14T11:03:58",
+            "fin": "2026-01-14T12:33:58",
+            "monto": 3.75,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1088",
+            "parquimetro": "PK-CEN-01",
+            "placa": "K83-FRI",
+            "inicio": "2026-01-14T10:22:05",
+            "fin": "2026-01-14T10:52:05",
+            "monto": 1.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1089",
+            "parquimetro": "PK-SUR-15",
+            "placa": "V81-KJS",
+            "inicio": "2026-01-14T09:17:01",
+            "fin": "2026-01-14T11:17:01",
+            "monto": 5.0,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1090",
+            "parquimetro": "PK-SUR-01",
+            "placa": "O95-VVG",
+            "inicio": "2026-01-14T12:21:21",
+            "fin": "2026-01-14T15:21:21",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1091",
+            "parquimetro": "PK-NOR-08",
+            "placa": "H14-WOJ",
+            "inicio": "2026-01-14T08:19:38",
+            "fin": "2026-01-14T10:19:38",
+            "monto": 5.0,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1092",
+            "parquimetro": "PK-CEN-10",
+            "placa": "R48-BRC",
+            "inicio": "2026-01-14T11:53:08",
+            "fin": "2026-01-14T14:23:08",
+            "monto": 6.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1093",
+            "parquimetro": "PK-CEN-07",
+            "placa": "T74-UKE",
+            "inicio": "2026-01-14T12:42:29",
+            "fin": "2026-01-14T15:12:29",
+            "monto": 6.25,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1094",
+            "parquimetro": "PK-SUR-03",
+            "placa": "C16-VDX",
+            "inicio": "2026-01-14T14:25:28",
+            "fin": "2026-01-14T17:25:28",
+            "monto": 7.5,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1095",
+            "parquimetro": "PK-SUR-14",
+            "placa": "M51-LBW",
+            "inicio": "2026-01-14T10:35:54",
+            "fin": "2026-01-14T13:05:54",
+            "monto": 6.25,
+            "metodo": "App"
+        },
+        {
+            "id_txn": "TXN-1096",
+            "parquimetro": "PK-CEN-07",
+            "placa": "S58-FXL",
+            "inicio": "2026-01-14T15:16:51",
+            "fin": "2026-01-14T18:16:51",
+            "monto": 7.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1097",
+            "parquimetro": "PK-CEN-02",
+            "placa": "E71-BSS",
+            "inicio": "2026-01-14T14:11:35",
+            "fin": "2026-01-14T16:41:35",
+            "monto": 6.25,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1098",
+            "parquimetro": "PK-CEN-08",
+            "placa": "D35-FAQ",
+            "inicio": "2026-01-14T10:21:49",
+            "fin": "2026-01-14T12:21:49",
+            "monto": 5.0,
+            "metodo": "Tarjeta"
+        },
+        {
+            "id_txn": "TXN-1099",
+            "parquimetro": "PK-CEN-07",
+            "placa": "P96-XRD",
+            "inicio": "2026-01-14T14:23:37",
+            "fin": "2026-01-14T15:23:37",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        },
+        {
+            "id_txn": "TXN-1100",
+            "parquimetro": "PK-CEN-15",
+            "placa": "W44-PGD",
+            "inicio": "2026-01-14T11:01:23",
+            "fin": "2026-01-14T12:01:23",
+            "monto": 2.5,
+            "metodo": "Efectivo"
+        }
+    ]
+}

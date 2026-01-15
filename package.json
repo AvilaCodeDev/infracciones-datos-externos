@@ -1,0 +1,18 @@
+{
+  "name": "repuve",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "start": "json-server db.json --port 3100"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
