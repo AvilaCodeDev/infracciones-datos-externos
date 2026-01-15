@@ -7,7 +7,7 @@
     "@types/bun": "latest"
   },
   "scripts": {
-    "start": "json-server db.json --port 3100 --host mrcvl.com"
+    "start": "json-server db.json --port 3100 --host 0.0.0.0"
   },
   "peerDependencies": {
     "typescript": "^5"
